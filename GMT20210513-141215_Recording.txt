@@ -1,0 +1,106 @@
+01:03:54	Mylles Assuncao:	brb
+01:05:53	M:	lol
+01:05:55	Carlos Mero:	cause she was single
+01:11:05	E O:	That`s funny @Carlos
+01:13:31	John Simeon:	My mic is not working. Smh
+01:13:36	M:	pretending to be someone else in person
+01:18:02	Mylles Assuncao:	back
+01:20:34	M:	block them
+01:20:37	M:	on your device
+01:20:50	M:	that could help, temporarily
+01:21:32	Suvi:	brb
+01:22:30	Sonia Ilboudo:	Mellissa I am tired of blocking them lol. they will always call you with another phone number.
+01:22:42	M:	ugh, i know they are the worst
+01:22:54	M:	stay on it tho, it does help. in time they might give up also
+01:23:08	Suvi:	back
+01:23:09	M:	or you could change your number if its that bad
+01:24:18	Sonia Ilboudo:	Yes I just changed my number so let see
+01:24:44	M:	shred it
+01:24:47	M:	burn it
+01:24:52	M:	anything but throw it away lol
+01:25:49	Sonia Ilboudo:	lol
+01:26:16	E O:	yesss carlos
+01:30:30	M:	they piggyback and tailgate in all the movies lol
+01:31:22	Carlos Mero:	lol word just blending in and theyre inside
+01:31:36	M:	right lmao
+01:35:14	M:	back at 11:15
+01:54:53	M:	to disguise it as another mac address/device?
+01:55:29	M:	cables
+01:55:34	M:	hardware
+01:56:06	M:	packets of data
+01:56:40	Mylles Assuncao:	electric
+01:56:56	Mylles Assuncao:	0 and 1
+01:56:57	John Simeon:	Electrical signal
+01:58:55	M:	layer 2: data link layer
+01:59:01	M:	frames
+02:02:22	John Simeon:	Please=1=physical
+02:02:43	E O:	yep
+02:03:03	M:	redirect frames
+02:03:42	John Simeon:	BRB
+02:04:02	Sonia Ilboudo:	It will hide my identity I guess
+02:04:16	bryan:	brb
+02:04:58	A:	dhcp
+02:07:21	John Simeon:	Back
+02:12:54	M:	so cool
+02:20:53	A:	Back
+02:22:37	Sonia Ilboudo:	brb
+02:24:10	Mohamad Barakat:	brb
+02:24:24	Sonia Ilboudo:	back
+02:28:06	FD:	brb
+02:30:34	Tyra Foster:	I have my meeting with Dante at 12 so im gonna jump off this zoom now
+02:30:41	FD:	back
+02:33:00	M:	didn’t wanna leave you hanging john lol
+02:33:35	John Simeon:	I see. Thank you, M.
+02:34:06	FD:	brb
+02:38:43	FD:	back
+02:43:56	Carlos Mero:	snarf
+02:44:07	Carlos Mero:	isn't that the thundercats pet?
+02:56:14	M:	snowden did that no? or diff movie?
+02:57:39	M:	find it, how? lol
+02:59:08	Sonia Ilboudo:	Mellissa what was your question?
+02:59:43	M:	how to detect physical intrusion
+02:59:47	M:	in a data center
+02:59:58	Sonia Ilboudo:	ok
+03:00:08	Sonia Ilboudo:	Thank you
+03:00:21	M:	np
+03:10:06	bryan:	https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom
+03:10:26	E O:	wow
+03:11:23	Carlos Mero:	damn they got paid.
+03:11:35	E O:	IKR
+03:11:36	Carlos Mero:	Black hat does seem lucrative lol
+03:11:42	E O:	lol
+03:14:11	M:	lol
+03:20:58	M:	back from lunch at 1;40
+04:17:06	Melissa R:	back as well
+04:22:18	M:	telegram messages, they encrypt
+04:25:08	Carlos Mero:	certificates
+04:25:27	Carlos Mero:	asymmetric
+04:25:38	John Simeon:	SSL certificates
+04:26:30	FD:	lol
+04:38:51	A:	encrypt and send with your own public key, decrypt using the private key.
+04:39:59	A:	encryption
+04:41:21	A:	Both computer 1 and 2 must know key 1
+04:46:43	Mylles Assuncao:	brb
+04:51:35	A:	4
+04:51:54	A:	both the sender and receiver have a public and private keus
+04:53:12	Mylles Assuncao:	back
+04:55:59	A:	use the public key A to encrypt
+04:57:13	A:	Use the private key B to decrypt the message received from computer A which encrypted the text using public key A.
+04:57:29	bryan:	^^
+05:01:44	Tyra Foster:	Wouldnt A create the ciphertext using B’s public key which B would then decipher using their private key?
+05:03:31	A:	you are right, Tyra. Computer A would use public key B to encrypt data, then the data would be sent to computer B where computer B would use Private key B to decrypt the data. That is my understanding.
+05:05:50	A:	The transfer of data occurs using the destination public key (to encrypt) and destination private key (to decrypt), correct?
+05:15:41	Carlos Mero:	double encryption?
+05:19:29	FD:	brb
+05:21:46	FD:	back
+06:00:31	Stanford Billings:	MAC address
+06:04:21	FD:	brb
+06:05:35	M:	boooo.. lol
+06:07:05	M:	these are the vpn logs we were talking about earlier. the country where the servers are located dictate how much info or logs have to be turned over to the authorities upon request
+06:09:26	Mylles Assuncao:	https://null-byte.wonderhowto.com/how-to/hack-like-pro-evade-detection-using-proxychains-0154619/
+06:09:54	M:	thx
+06:10:41	Sonia Ilboudo:	brb
+06:13:05	Sonia Ilboudo:	back
+06:16:19	FD:	back
+06:25:12	M:	crazy lol
+06:26:17	Denise George:	wow
